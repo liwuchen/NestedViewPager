@@ -73,6 +73,9 @@ public class MainActivity extends AppCompatActivity {
         message1.setId(1);
         message1.setContent("第一页");
         List<String> list1 = new ArrayList<>();
+        list1.add("https://s3.bmp.ovh/imgs/2021/08/9851754afbdc3191.png");
+        list1.add("https://s3.bmp.ovh/imgs/2021/08/4637de621c8600db.png");
+        list1.add("https://s3.bmp.ovh/imgs/2021/08/1e2102faeb2fed52.png");
         message1.setImageList(list1);
         resultList.add(message1);
 
@@ -81,6 +84,9 @@ public class MainActivity extends AppCompatActivity {
         message2.setId(2);
         message2.setContent("第二页");
         List<String> list2 = new ArrayList<>();
+        list2.add("https://s3.bmp.ovh/imgs/2021/08/f70134e23a8d06c9.png");
+        list2.add("https://s3.bmp.ovh/imgs/2021/08/750947b5f8fdaec2.png");
+        list2.add("https://s3.bmp.ovh/imgs/2021/08/441937a25aa29c67.png");
         message2.setImageList(list2);
         resultList.add(message2);
 
@@ -88,6 +94,9 @@ public class MainActivity extends AppCompatActivity {
         message3.setId(3);
         message3.setContent("第三页");
         List<String> list3 = new ArrayList<>();
+        list3.add("https://s3.bmp.ovh/imgs/2021/08/fde1e5700bc9bab8.png");
+        list3.add("https://s3.bmp.ovh/imgs/2021/08/56a3c5cc9df841aa.png");
+        list3.add("https://s3.bmp.ovh/imgs/2021/08/41911e9490092005.png");
         message3.setImageList(list3);
         resultList.add(message3);
 

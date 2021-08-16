@@ -10,6 +10,6 @@
         android:id="@+id/img_photo_fullscreen"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scaleType="centerInside"/>
+        android:scaleType="centerCrop"/>
 </androidx.appcompat.widget.LinearLayoutCompat>
 
